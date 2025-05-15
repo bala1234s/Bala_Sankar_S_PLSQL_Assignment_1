@@ -1,4 +1,4 @@
--- create database book_db; 
+create database book_db; 
 USE book_db;
 
 create table Book (
